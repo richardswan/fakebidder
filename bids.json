@@ -1,0 +1,38 @@
+{
+   "bid" : [{
+      "requestId" : "1",
+      "cpm" : 12.01,
+      "width" : 300,
+      "height": 250,
+      "ad": "<h1>bid1<h1>",
+      "ttl": 360,
+      "creativeId": "quantcast",
+      "netRevenue": false,
+      "currency": "USD",
+      "dealId": 123
+   },
+   {
+      "requestId" : "2",
+      "cpm" : 12.01,
+      "width" : 300,
+      "height": 250,
+      "ad": "<h1>bid2<h1>",
+      "ttl": 360,
+      "creativeId": "quantcast",
+      "netRevenue": false,
+      "currency": "USD",
+      "dealId": 123
+   },
+   {
+      "requestId" : "3",
+      "cpm" : 12.01,
+      "width" : 300,
+      "height": 250,
+      "ad": "<h1>bid3<h1>",
+      "ttl": 360,
+      "creativeId": "quantcast",
+      "netRevenue": false,
+      "currency": "USD",
+      "dealId": 123
+   }]
+ }
